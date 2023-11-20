@@ -3,6 +3,7 @@
 int main()
 {
 
-printf("hello");
+printf("hello"); // 안녕
+  
 
 }
